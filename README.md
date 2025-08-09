@@ -113,7 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Python community for amazing tools and libraries
 
 ---
-<img width="640" height="640" alt="Ekran Görüntüsü (230)" src="https://github.com/user-attachments/assets/2d0a03b8-67b3-4376-87bf-48e4fbc452de" />
+<img width="416" height="416" alt="result" src="https://github.com/user-attachments/assets/07497c90-fe08-4ed1-8410-866fbfc64f1b" />
+
 
 
 ⭐ **If you find this project helpful, please give it a star!**
