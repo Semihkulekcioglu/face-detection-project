@@ -112,4 +112,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ---
 
+<img width="416" height="416" alt="result" src="https://github.com/user-attachments/assets/07497c90-fe08-4ed1-8410-866fbfc64f1b" />
+
 ⭐ **Bu projeyi faydalı bulursanız, lütfen yıldız verin!**
