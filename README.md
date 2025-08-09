@@ -18,7 +18,7 @@
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.12**
 - **OpenCV (cv2)**
 - **Haar Cascade Classifier**
 
